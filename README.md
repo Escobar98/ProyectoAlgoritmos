@@ -1,3 +1,9 @@
+Ejercicio de cola de prioridad 
+Abner Said Ramos Escobar 
+20171900314
+Algoritmos y Estructura de datos 
+Seccion:1900
+
 
 Juan quiere ordenar las calificaciones de su curso de mayor a menor promedio, Juan llevo 10 clases las cuales en su 
 boleta de calificacion estan oredenadas por orde alfabetico
